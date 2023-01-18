@@ -1,0 +1,23 @@
+{
+  "grammarTitle": "Own Grammar Template Generator",
+  "grammarDesc": "Student Interest",
+  "start":[
+    "Students seem to show more interest towards their <object> course <title> <number>."
+  ],
+  "object": [
+    "Database Management Systems",
+    "Algorithms",
+    "Program Design Paradigms"
+  ],
+  "title": [
+    "Assignment",
+    "Project",
+    "Quiz"
+  ],
+  "number": [
+    "1",
+    "2",
+    "3"
+  ]
+}
+
