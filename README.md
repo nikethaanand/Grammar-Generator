@@ -1,4 +1,4 @@
-Grammar Generator
+# Grammar Generator
 
 
 The entry point of the project is the Main.java file. This file can directly be run. On running this file UserInput.java class is called. This receives input from user. The following gets loaded and asks for user input where the user can enter the choice of grammar they wish to get the sentence.
